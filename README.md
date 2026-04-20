@@ -10,7 +10,7 @@
 [![Google Cloud Run](https://img.shields.io/badge/Cloud_Run-Deployed-4285F4?logo=google-cloud)](https://cloud.google.com/run)
 [![Gemini AI](https://img.shields.io/badge/Gemini-2.5_Flash-8E75B2?logo=google)](https://ai.google.dev)
 
-[Live Demo]() · [Report a Bug](https://github.com/mickey4sure/ArenaFLow.git) · [Request a Feature](https://github.com/mickey4sure/ArenaFLow.git)
+[Live Demo](https://arenaflow-526978052063.asia-south1.run.app/) · [Report a Bug](https://github.com/mickey4sure/ArenaFLow.git/) · [Request a Feature](https://github.com/mickey4sure/ArenaFLow.git/)
 
 </div>
 
