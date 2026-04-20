@@ -72,8 +72,8 @@
 ### 1 — Clone & Install
 
 ```bash
-git clone https://github.com/mickey4sure/arenaflow.git
-cd arenaflow
+git clone https://github.com/mickey4sure/ArenaFLow.git
+cd ArenaFlow
 npm install
 ```
 
