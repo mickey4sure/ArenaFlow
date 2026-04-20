@@ -39,3 +39,43 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# OS specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.Spotlight-V100
+.Trashes
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Large media, archives, and data files (Strict < 5-10MB repo size enforcement)
+*.mp4
+*.mov
+*.mkv
+*.mp3
+*.wav
+*.flac
+*.zip
+*.tar
+*.gz
+*.rar
+*.7z
+*.sqlite
+*.sqlite3
+*.db
+*.iso
+*.dmg
+
+# Compiled / binary artifacts
+dist/
+*.exe
+*.dll
+*.so
+*.dylib
