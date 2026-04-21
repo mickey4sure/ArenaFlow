@@ -288,6 +288,6 @@ Distributed under the **MIT License**. See [`LICENSE`](./LICENSE) for details.
 
 <div align="center">
 
-Built with ❤️ on Google Cloud · Gemini 2.5 Flash · Google Maps JavaScript API
+Built with ❤️ on Google Cloud · Gemini 2.5 Flash · Google Maps JavaScript API · Google Antigravity
 
 </div>
